@@ -1,0 +1,23 @@
+.img img{
+    width: 300px;
+}
+
+.itens{
+    list-style: none;
+    display:flex;
+    flex-wrap: initial;
+    justify-content: space-evenly;
+    border-radius: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo{
+    font-size: 20px;   
+}
+.quantidade{
+    font-size: 20px;
+}
+
+li{
+    list-style: none;
+}
